@@ -73,7 +73,7 @@ if ping -c1 google.com &>/dev/null;
         echo "$DIA" >> update.txt
     fi    
 else
-	echo "No tenim connexió per tant no ens és possible actualitzar"
+	echo "No tenemos connexión por lo tanto no es  posible actualitzar"
 fi
 	
 	
